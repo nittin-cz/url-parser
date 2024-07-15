@@ -1,0 +1,21 @@
+{
+  "name": "url-parser",
+  "version": "1.0.0",
+  "description": "Url parser for Nittin organization",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nittin-cz/url-parser.git"
+  },
+  "keywords": [
+    "url",
+    "parser"
+  ],
+  "author": "Ivan Svoboda",
+  "license": "Nittin, s.r.o.",
+  "bugs": {
+    "url": "https://github.com/nittin-cz/url-parser/issues"
+  },
+  "homepage": "https://github.com/nittin-cz/url-parser#readme"
+}
