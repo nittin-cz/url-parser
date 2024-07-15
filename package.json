@@ -1,5 +1,5 @@
 {
-  "name": "url-parser",
+  "name": "nittin-url-parser",
   "version": "1.0.0",
   "description": "Url parser for Nittin organization",
   "main": "src/index.js",
